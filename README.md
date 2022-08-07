@@ -33,7 +33,7 @@
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cesao89&count_private=true&show_icons=true&theme=dark" align="center" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesao89&layout=compact&langs_count=6&theme=dark" align="center" />
 </div> 
 <br/>  
