@@ -39,8 +39,7 @@
 <br/>  
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://wakatime.com/share/@498d4573-5253-44bd-a2c8-e7fde7d34571/44a1184f-9699-4283-9590-4bc93307cf7a.png" width="100%" />
 <br/>
 
 
