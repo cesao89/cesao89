@@ -4,9 +4,9 @@
 
 
 ### <div align="center">I'm César, an software developer 👨‍💻 working since 2013 🚀</div>  
-- 🔭 I’m currently working on [Soluti](http://soluti.com.br/)  
+- 🔭 I’m currently working on [EXA](http://exa.com.br/)  
 
-- 🌱 I’m currently learning about data encryption  
+- 🧯 I’m currently solving problemas  
 
 - ⚡ Live and Learn  
 <br/>  
