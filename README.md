@@ -6,7 +6,7 @@
 ### <div align="center">I'm César, an software developer 👨‍💻 working since 2013 🚀</div>  
 - 🔭 I’m currently working on [EXA](http://exa.com.br/)  
 
-- 🧯 I’m currently solving problemas  
+- 🧯 I’m currently troubleshooting  
 
 - ⚡ Live and Learn  
 <br/>  
